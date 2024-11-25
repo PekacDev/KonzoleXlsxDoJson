@@ -1,0 +1,14 @@
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\KonzoleXlsxDoJson.exe
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\KonzoleXlsxDoJson.dll
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\KonzoleXlsxDoJson.deps.json
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\KonzoleXlsxDoJson.runtimeconfig.json
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\KonzoleXlsxDoJson.pdb
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\ClosedXML.dll
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\ClosedXML.Parser.dll
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\DocumentFormat.OpenXml.dll
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\DocumentFormat.OpenXml.Framework.dll
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\ExcelNumberFormat.dll
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\Newtonsoft.Json.dll
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\RBush.dll
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\SixLabors.Fonts.dll
+C:\Users\marti\source\repos\KonzoleXlsxDoJson\KonzoleXlsxDoJson\bin\Release\net8.0\publish\XlsxDoJson\System.IO.Packaging.dll
