@@ -18,11 +18,18 @@ namespace XlsxDoJson
                     string icoKlient = worksheet.Cell(radek, 2).Value.ToString();
                     string cisloZakazky = worksheet.Cell(radek, 3).Value.ToString();
 
+                    if (string.IsNullOrEmpty(cisloZakazky) || string.IsNullOrEmpty(nazevKlient) && string.IsNullOrEmpty(icoKlient))
+                    {
+                        Console.WriteLine($"Přeskakuji řádek {radek} z důvodu neůplných dat");
+                        continue;
+                    }
+
                     var zakazka = new Zakazka
                     {
                         Nazev = cisloZakazky,
                         VyrobeneKusy = new List<VyrobeneKusy>()
                     };
+
 
                     // Počet kusů
                     for (int sloupce = 4; sloupce <= worksheet.LastColumnUsed().ColumnNumber(); sloupce++)

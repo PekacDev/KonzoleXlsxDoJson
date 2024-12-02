@@ -325,15 +325,14 @@
     ]
   },
   {
-    "Nazev": "Bro",
-    "ICO": "345",
+    "Nazev": "fdsfds",
     "Zakazky": [
       {
-        "Nazev": "",
+        "Nazev": "FED",
         "VyrobeneKusy": [
           {
             "Obdobi": "02-2017",
-            "Pocet": 2324
+            "Pocet": 34
           }
         ]
       }

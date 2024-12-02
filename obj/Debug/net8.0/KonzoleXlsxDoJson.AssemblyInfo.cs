@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KonzoleXlsxDoJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38497254cba5b0336cf1198fdac848020a678c67")]
 [assembly: System.Reflection.AssemblyProductAttribute("KonzoleXlsxDoJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KonzoleXlsxDoJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
